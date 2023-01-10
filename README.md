@@ -1,1 +1,2 @@
-# projet_python_reddit&arxiv
+# Projet programmation python Reddit & arxiv
+
